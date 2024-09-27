@@ -4,10 +4,10 @@
 The primary objective of this analysis is to develop a predictive model that can determine the most appropriate drug for a future patient suffering from a specific illness. Each patient in the dataset has been treated with one of five medications: Drug A, Drug B, Drug C, Drug X, or Drug Y. By analyzing the relationships between the patients' features—such as age, sex, blood pressure,Na_to_K and cholesterol levels—and their respective drug responses, we aim to build a model that can accurately recommend the best medication for new patients based on their individual characteristics. This predictive capability is crucial for optimizing treatment strategies and improving patient outcomes.
 
 ## Table of Contents
-- [Libraries Used]
-- [Dataset](#dataset)
-- [Modeling Process]
-- [Results]
+- Libraries Used
+- Dataset
+- Modeling Process
+- Results
 
 ## Libraries Used
 - Scikit-learn
