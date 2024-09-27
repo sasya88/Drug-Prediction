@@ -8,7 +8,7 @@ The primary objective of this analysis is to develop a predictive model that can
 - [Dataset](#dataset)
 - [Modeling Process]
 - [Results]
-- 
+
 ## Libraries Used
 - Scikit-learn
 - Pandas
