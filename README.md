@@ -32,7 +32,7 @@ The data was preprocessed to handle missing values, encode categorical variables
    - Encoded categorical variables
    - Normalized numerical features
 3. **Model Selection**: 
-   - Split the dataset into training and testing sets
+   - Splited the dataset into training and testing sets
    - Experimented with various algorithms including Logistic Regression, Decision Trees, Random Forests and Stacking Classifier.
 4. **Model Evaluation**: 
    - Evaluated model performance using accuracy, precision, recall, and F1 score.
